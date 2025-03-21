@@ -37,9 +37,9 @@
 
 ## 📈 GitHub Stats
 
-![Gioele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gioelegiunta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gioelegiunta&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gioelegiunta&theme=radical)
+![Gioele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G103L3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G103L3&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=G103L3&theme=radical)
 
 ---
 
