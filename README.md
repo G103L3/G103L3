@@ -2,16 +2,16 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI2ZXM1bGpiZDJtMGJ0MjZpODFqbmVxOTUwbDlmM2Z2bDBlMzU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="300"/>
 </p>
 
-# 👋 Hi there, I'm **Gioele Giunta**! 🚀
+# 👋 Hi there, I'm **G103L3 (Gioele Giunta)**! 🚀
 
 **👨‍💻 Computer Engineer | 🔧 Embedded Systems Specialist | 📱 Mobile Developer**
 
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://www.linkedin.com/in/gioele-giunta-58314b203)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-green)](https://gioelegiunta.it/)
-[![GitHub](https://img.shields.io/badge/🐙-GitHub-black)](https://github.com/gioelegiunta)
-![Profile Views](https://komarev.com/ghpvc/?username=gioelegiunta&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/gioelegiunta?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/gioelegiunta?affiliations=OWNER%2CCOLLABORATOR&style=social)
+[![GitHub](https://img.shields.io/badge/🐙-GitHub-black)](https://github.com/G103L3)
+![Profile Views](https://komarev.com/ghpvc/?username=G103L3&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/G103L3?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/G103L3?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
@@ -35,9 +35,17 @@
 
 ---
 
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=G103L3&theme=radical&no-bg=true&margin-w=10&row=2&column=4" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
-![Gioele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G103L3&show_icons=true&theme=radical)
+![G103L3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G103L3&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G103L3&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=G103L3&theme=radical)
 
@@ -88,4 +96,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  🛠️ Made with ❤️ by **G103L3**
 </p>
