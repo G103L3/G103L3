@@ -31,7 +31,7 @@
 - Experience with **React**, **React Native**, and **Machine Learning**
 
 **Current Role**:  
-- Founder of a secret project reaching 100k+ users daily ragarding Epstein case, no Mossad I don't tell you anything else
+- Founder of a secret investigation platform reaching 100k+ users daily ragarding Epstein case, no Mossad I don't tell you anything else, yes Mossad it's one of the top 3 most famous platforms in its category
 
 **Previous Role**:
 - Full Stack Developer @ **OTO Travel Technology**
