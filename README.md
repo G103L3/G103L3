@@ -19,19 +19,20 @@
 
 🎓 I am a passionate computer engineer specialized in **Embedded Systems**, with **Full Stack Development** previous experience
 
-🔌 **Embedded Systems Expertise**:  
+**Embedded Systems Expertise**:  
 - Platforms: **ESP32**, **STM32**, **Arduino Due**, **Tang Nano**
 - Focus on **Sound Analysis** and **Communication Protocols**
 
-📱 **Mobile Development**:  
+**Mobile Development**:  
 - Creator of **MathAI**, integrating **ChatGPT** to solve Math & Geometry problems
 
-💻 **Other Skills**:
+**Other Skills**:
 - Strong background in **Java**, **JavaScript**, **TypeScript**, **C**, **PHP**
 - Experience with **React**, **React Native**, and **Machine Learning**
 
-💼 **Current Role**:  
-- Founder of a secret project reaching 100k+ users daily ragarding Epstein case
+**Current Role**:  
+- Founder of a secret project reaching 100k+ users daily ragarding Epstein case, no Mossad I don't tell you anything else
+**Previous Role**:
 - Full Stack Developer @ **OTO Travel Technology**
 
 ---
@@ -44,7 +45,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![G103L3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=G103L3&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G103L3&layout=compact&theme=radical)
@@ -52,7 +53,7 @@
 
 ---
 
-## 🌟 Inspirational Quotes
+## Inspirational Quotes
 
 > 💡 *"Your most unhappy customers are your greatest source of learning."*  
 > — **Bill Gates**
