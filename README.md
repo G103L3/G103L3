@@ -2,9 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI2ZXM1bGpiZDJtMGJ0MjZpODFqbmVxOTUwbDlmM2Z2bDBlMzU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="300"/>
 </p>
 
-# 👋 Hi there, I'm **G103L3 (Gioele Giunta)**! 🚀
+# Hi there, I'm **G103L3 (Gioele Giunta)**!
 
-**👨‍💻 Computer Engineer | 🔧 Embedded Systems Specialist | 📱 Mobile Developer**
+** Computer Engineer | Embedded Systems Specialist **
 
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://www.linkedin.com/in/gioele-giunta-58314b203)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-green)](https://gioelegiunta.it/)
@@ -15,12 +15,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 I am a passionate computer engineer specialized in **Embedded Systems**, **Full Stack Development**, and **Mobile Applications**.
+🎓 I am a passionate computer engineer specialized in **Embedded Systems**, with **Full Stack Development** previous experience
 
 🔌 **Embedded Systems Expertise**:  
-- Platforms: **ESP32**, **STM32**, **Arduino Due**
+- Platforms: **ESP32**, **STM32**, **Arduino Due**, **Tang Nano**
 - Focus on **Sound Analysis** and **Communication Protocols**
 
 📱 **Mobile Development**:  
@@ -31,6 +31,7 @@
 - Experience with **React**, **React Native**, and **Machine Learning**
 
 💼 **Current Role**:  
+- Founder of a secret project reaching 100k+ users daily ragarding Epstein case
 - Full Stack Developer @ **OTO Travel Technology**
 
 ---
