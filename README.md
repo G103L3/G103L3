@@ -24,7 +24,7 @@
 - Focus on **Sound Analysis** and **Communication Protocols**
 
 **Mobile Development**:  
-- Creator of **MathAI**, integrating **ChatGPT** to solve Math & Geometry problems
+- Creator of **MathAI**
 
 **Other Skills**:
 - Strong background in **Java**, **JavaScript**, **TypeScript**, **C**, **PHP**
