@@ -2,9 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI2ZXM1bGpiZDJtMGJ0MjZpODFqbmVxOTUwbDlmM2Z2bDBlMzU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="300"/>
 </p>
 
-# Hi there, I'm **G103L3 (Gioele Giunta)**!
+# Hi there, I'm G103L3 (Gioele Giunta)!
 
-** Computer Engineer | Embedded Systems Specialist **
+**Computer Engineer Embedded Systems Student**
 
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://www.linkedin.com/in/gioele-giunta-58314b203)
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-green)](https://gioelegiunta.it/)
