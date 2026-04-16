@@ -32,12 +32,13 @@
 
 **Current Role**:  
 - Founder of a secret project reaching 100k+ users daily ragarding Epstein case, no Mossad I don't tell you anything else
+
 **Previous Role**:
 - Full Stack Developer @ **OTO Travel Technology**
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=G103L3&theme=radical&no-bg=true&margin-w=10&row=2&column=4" />
@@ -55,31 +56,31 @@
 
 ## Inspirational Quotes
 
-> 💡 *"Your most unhappy customers are your greatest source of learning."*  
+> *"Your most unhappy customers are your greatest source of learning."*  
 > — **Bill Gates**
 
-> 🚀 *"Innovation distinguishes between a leader and a follower."*  
+> *"Innovation distinguishes between a leader and a follower."*  
 > — **Steve Jobs**
 
-> ❤️ *"The only way to do great work is to love what you do."*  
+> *"The only way to do great work is to love what you do."*  
 > — **Steve Jobs**
 
 ---
 
-## 🎯 Future Goals
+## Future Goals
 
-- 🌍 **Advance Embedded Systems**: Innovate in IoT & communication technologies
-- 🤖 **AI Integration**: Build smarter mobile apps powered by AI
-- 🌱 **Community Engagement**: Share knowledge through open-source & workshops!
+- **Advance Embedded Systems**: Innovate in IoT & communication technologies
+- **AI Integration**: Build smarter mobile apps powered by AI
+- **Community Engagement**: Share knowledge through open-source & workshops!
 
 ---
 
-> ✨ *“The best way to predict the future is to invent it.”*  
+> *“The best way to predict the future is to invent it.”*  
 > — **Alan Kay**
 
 ---
 
-## ⚙️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -98,10 +99,4 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
-
----
-
-<p align="center">
-  🛠️ Made with ❤️ by **G103L3**
 </p>
