@@ -19,15 +19,29 @@
 
 ## Featured Projects
 
+### [exposingepstein.com](https://exposingepstein.com) · Epstein Investigation Archive *(proprietary, not on GitHub)*
+
+A platform I built from scratch to make the DOJ Epstein files actually navigable. No company, no budget, no team. Just me and [AquaBomber](https://www.reddit.com/user/AquaBomber), who handled the community while I coded every day from morning until late into the night.
+
+The platform now serves 100k+ daily users and holds:
+
+- Over 180,000 photos from the DOJ seizure
+- Over 2,000 videos, many with transcriptions and audio analysis
+- Thousands of court documents, emails, and flight records, tagged and cross-referenced
+- Full-text search across hundreds of thousands of PDFs
+- User accounts, community posts, comments, voting, and collaborative investigations
+
+The codebase is proprietary. The public API below is the open interface to the archive.
+
+---
+
 ### [epstein-files-api](https://github.com/G103L3/epstein-files-api) · Public REST API for the Epstein Archive
 
-A free, open REST API to programmatically access the Epstein investigation archive at [exposingepstein.com](https://exposingepstein.com).  
-The platform was built from scratch by two people with no budget and no team. It now holds over 180,000 photos, 2,000+ videos, and thousands of court documents, emails, and flight records, all tagged and cross-referenced.
+A free, documented REST API built on top of exposingepstein.com so that researchers, journalists, and developers can access the archive programmatically without scraping anything.
 
-- Full-text search across hundreds of thousands of PDFs
 - Paginated endpoints for documents, tags, and platform stats
+- Full-text search across the archive
 - API key registration in one request, 500 req/day free
-- Used by researchers, journalists, and developers worldwide
 
 ```bash
 curl -X POST "https://exposingepstein.com/backend/api/api_public.php?action=register" \
