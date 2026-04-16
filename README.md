@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI2ZXM1bGpiZDJtMGJ0MjZpODFqbmVxOTUwbDlmM2Z2bDBlMzU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="280"/>
 </p>
 
-<h1 align="center">Gioele Giunta — G103L3</h1>
+<h1 align="center">Gioele Giunta / G103L3</h1>
 
 <p align="center">
   <b>Computer Engineering · Embedded Systems · Full Stack Development</b><br/>
@@ -19,10 +19,10 @@
 
 ## Featured Projects
 
-### [epstein-files-api](https://github.com/G103L3/epstein-files-api) — Public REST API · Epstein Archive
+### [epstein-files-api](https://github.com/G103L3/epstein-files-api) · Public REST API for the Epstein Archive
 
 A free, open REST API to programmatically access the Epstein investigation archive at [exposingepstein.com](https://exposingepstein.com).  
-The platform was built from scratch by two people — no budget, no team — and now holds over 180,000 photos, 2,000+ videos, and thousands of court documents, emails, and flight records, all tagged and cross-referenced.
+The platform was built from scratch by two people with no budget and no team. It now holds over 180,000 photos, 2,000+ videos, and thousands of court documents, emails, and flight records, all tagged and cross-referenced.
 
 - Full-text search across hundreds of thousands of PDFs
 - Paginated endpoints for documents, tags, and platform stats
@@ -37,13 +37,13 @@ curl -X POST "https://exposingepstein.com/backend/api/api_public.php?action=regi
 
 ---
 
-### [AUSP-Protocol](https://github.com/G103L3/AUSP-Protocol) — Acoustic Underground Sensor Protocol
+### [AUSP-Protocol](https://github.com/G103L3/AUSP-Protocol) · Acoustic Underground Sensor Protocol
 
 A layered acoustic communication protocol for master-slave sensor networks in underground environments (tunnels, mines, pipelines).  
 Paper submitted to **IEEE Internet of Things Journal** (under review, 2026).
 
 - 4-layer stack: Physical / Bit / Link / Application
-- FFT-based tone detection at 48 kHz, parabolic peak interpolation
+- FFT-based tone detection at 48 kHz with parabolic peak interpolation
 - Run-length encoding achieving up to 30 bps over acoustic channel
 - Token-based MAC without clock synchronization
 - Validated on ESP32 hardware at 14.4 bit/s average, less than 1% retransmission rate
