@@ -5,7 +5,7 @@
 <h1 align="center">Gioele Giunta / G103L3</h1>
 
 <p align="center">
-  <b> Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Stay Amish. </b>
+  <b> Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Stay Amish. </b> <br/>
   <b>Computer Engineering · Embedded Systems · Full Stack Development</b><br/>
   M.Sc. candidate in Embedded and Smart System Design · Politecnico di Torino
 </p>
