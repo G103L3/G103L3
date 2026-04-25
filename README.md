@@ -1,8 +1,7 @@
   <p align="center"><h1>🌿 Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Stay Amish. </h1>
 </p>
 <p align="center">
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZueXN0bmZueGZ3bm5qZzR3Y2Z4ZzR3Y2Z4ZzR3Y2Z4ZzR3Y2Z4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMGpxxcaOclj9u/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFydDY2OXp4eTlid3ZmdDFiemV1Mnc5ZGlseXBobGw3bjQyNmV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZXBL0YtCVuC6liQBeF/giphy.gif" width="400" alt="Stay Amish"/>
 </p>
 
 <h1 align="center">Gioele Giunta / G103L3</h1>
