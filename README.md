@@ -1,11 +1,11 @@
 <p align="center">
+  <h1>🌿 Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Stay Amish. </h1>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI2ZXM1bGpiZDJtMGJ0MjZpODFqbmVxOTUwbDlmM2Z2bDBlMzU2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" width="280"/>
 </p>
 
 <h1 align="center">Gioele Giunta / G103L3</h1>
 
 <p align="center">
-  <b> Code built by hand, the old-fashioned way. I miss the days when logic came from developers, not prompts. Stay Amish. </b> <br/>
   <b>Computer Engineering · Embedded Systems · Full Stack Development</b><br/>
   M.Sc. candidate in Embedded and Smart System Design · Politecnico di Torino
 </p>
